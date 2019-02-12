@@ -1,4 +1,4 @@
-
+import java.io.*;
 
 public class GetBurnRate{
   public static void main(String[] args){
